@@ -1,3 +1,4 @@
-javac src/HelloWorldApp.java
+cd src
+javac HelloWorldApp.java
 java HelloWorldApp
 
