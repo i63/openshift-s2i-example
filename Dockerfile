@@ -1,4 +1,4 @@
-FROM base-jdk:7
+FROM base-jdk:latest
 MAINTAINER ravi gupta (rgupta@redhat.com)
 
 #ADD /src/HelloWorldApp.java . 
